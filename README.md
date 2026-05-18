@@ -32,7 +32,10 @@ The dashboard was designed to provide interactive insights into airline operatio
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="2028" height="1142" alt="Airline Performance" src="https://github.com/user-attachments/assets/2eb1f564-58a6-4edb-9831-c12753cd22c6" />
+
+<img width="2028" height="1140" alt="Weather Impact" src="https://github.com/user-attachments/assets/05e36fd9-88c2-4cb1-8f5d-5817f4edb03d" />
+
 
 ## Files Included
 
